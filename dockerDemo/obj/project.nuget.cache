@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g8TH3T8kd21H8NbGDcEnz/Yg956vkgyKOmmOusqf9vllgc7lmK5SPROIgTI3WDDqwAk255srfO+tiqeESqUJ3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rtwo\\source\\repos\\dockerDemo\\dockerDemo\\dockerDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rtwo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
